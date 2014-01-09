@@ -1,0 +1,4 @@
+{
+	"compress":true,
+	"watchPath": "/var/njs/compress/testFolder"
+}

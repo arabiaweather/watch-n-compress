@@ -1,0 +1,29 @@
+{
+  "name": "watch-n-compress",
+  "version": "0.0.1",
+  "description": "Watch CSS and JS files for changes, once changed they will be compressed on the spot and saved with a .min pre-extension",
+  "main": "watchCss.js",
+  "dependencies": {
+    "chokidar": "~0.8.1",
+    "konphyg": "~1.2.3",
+    "node-minify": "~0.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/arabiaweather/watch-n-compress.git"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "watch",
+    "compress"
+  ],
+  "author": "ywadi",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "a4d3748b876666e2a76d75ffd812347f54d35a04"
+}
