@@ -21,7 +21,7 @@ function compressJsFile(filePath)
 		fileIn: filePath,
 		fileOut: getMinName(filePath),
 		callback: function(err, min){
-			//console.log(err);
+			console.log(err);
 			//console.log(min);
 			}
 		});

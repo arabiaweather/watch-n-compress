@@ -1,4 +1,4 @@
 {
 	"compress":true,
-	"watchPath": "/var"
+	"watchPath": "/var/njs/sitewidgets/assets/css"
 }

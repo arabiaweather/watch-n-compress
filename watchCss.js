@@ -1,5 +1,5 @@
 var config = require('konphyg')(__dirname + '/config');
-var conf = config('watchJs');
+var conf = config('watchCss');
 
 
 var compressor = require('node-minify');

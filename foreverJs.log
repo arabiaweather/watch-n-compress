@@ -1,0 +1,30 @@
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchCss.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJs.js[39m
+[31merror[39m:   Cannot start forever
+[31merror[39m:   script /var/njs/watch-n-compress/watchJs.js does not exist.
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJs.js[39m
+[31merror[39m:   Cannot start forever
+[31merror[39m:   script /var/njs/watch-n-compress/watchJs.js does not exist.
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchCss.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJs.js[39m
+[31merror[39m:   Cannot start forever
+[31merror[39m:   script /var/njs/watch-n-compress/watchJs.js does not exist.
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJs.js[39m
+[31merror[39m:   Cannot start forever
+[31merror[39m:   script /var/njs/watch-n-compress/watchJs.js does not exist.
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchCss.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJS.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJS.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJS.js[39m
+[33mwarn[39m:    --minUptime not set. Defaulting to: 1000ms
+[32minfo[39m:    Forever processing file: [90mwatchJS.js[39m
